@@ -5757,10 +5757,9 @@ react-native-gesture-handler@^1.6.1:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-react-native-i18n@^2.0.15:
+"react-native-i18n@git+https://github.com/lemankk/react-native-i18n.git#e870017bd93c9b2e3762ae83a2db3de8c4257146":
   version "2.0.15"
-  resolved "https://registry.yarnpkg.com/react-native-i18n/-/react-native-i18n-2.0.15.tgz#09b5a9836116fa7dbd0054c46e2d1014c1ef3c65"
-  integrity sha512-V8VwUP0TLda3oJvgt5tdnFaOV7WXPhTjCTLO7sXI3C2SHggSbD4bCUryMzNJhesimJidH21V2Owvj4zAylHoQQ==
+  resolved "git+https://github.com/lemankk/react-native-i18n.git#e870017bd93c9b2e3762ae83a2db3de8c4257146"
   dependencies:
     i18n-js "3.0.11"
 
@@ -5786,11 +5785,10 @@ react-native-modal-popover@^0.0.12:
     lodash.debounce "^4.0.8"
     prop-types "^15.6.2"
 
-"react-native-permissions@git+https://github.com/lemankk/react-native-i18n.git#e870017bd93c9b2e3762ae83a2db3de8c4257146":
-  version "2.0.15"
-  resolved "git+https://github.com/lemankk/react-native-i18n.git#e870017bd93c9b2e3762ae83a2db3de8c4257146"
-  dependencies:
-    i18n-js "3.0.11"
+react-native-permissions@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/react-native-permissions/-/react-native-permissions-2.1.5.tgz#6cfc4f1ab1590f4952299b7cdc9698525ad540e0"
+  integrity sha512-b9KO/4UEV9qddl+kcSybmdk8nlAifclSDBR2rSvc5KZM06vIaJWJNIzK2ZwPXqDQ5yD3CJLuKTRj7Fz+jM9qyQ==
 
 react-native-safe-area-context@^3.0.7:
   version "3.0.7"
