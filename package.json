@@ -24,7 +24,7 @@
     "add": "^2.0.6",
     "native-base": "^2.13.12",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-i18n": "git+https://github.com/lemankk/react-native-i18n.git#e870017bd93c9b2e3762ae83a2db3de8c4257146",
     "react-native-permissions": "^2.1.5",
